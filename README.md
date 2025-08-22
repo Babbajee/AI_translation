@@ -41,3 +41,18 @@ Click below to deploy instantly to Railway 👇
 1. Go to [Twilio Console](https://www.twilio.com/console).
 2. Buy a phone number (if you don’t have one).
 3. Under **Voice & Fax → A CALL COMES IN**, set webhook:
+(or Railway URL).
+4. Save changes.
+
+---
+
+## 🎤 Usage
+- Call your Twilio number.
+- Speak in **Hausa** → AI will translate and play in **English**.
+- Speak in **English** → AI will translate and play in **Hausa**.
+
+---
+
+## 🙌 Author
+Built by **Umar Salisu Aliyu**  
+Student of ATBU | AI Enthusiast | Programmer & Tailor
